@@ -1,0 +1,174 @@
+/* navbar */
+.navbar{
+  overflow: hidden;
+      background-color: #F4E6E6;
+}
+
+.Penguin{
+    float: left
+    top: -3px;
+    width: 60px;
+    height: 62px;
+    border-radius: 50%;
+    background-color: hotpink;
+}
+
+/* Navbar links */
+.navbar a {
+  float: right;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #F4E6E6;
+  color: hotpink;
+}
+
+/* bg section */
+    
+
+#priya{
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+    font-weight: 500;
+    font-style: normal;
+    }
+
+.bg{
+    background-color: #E4F9F5;
+}
+
+
+
+/*Hi section */
+
+.Profile{
+    top: -5px;
+    top: 50px;
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
+    background-color: #F4E6E6;
+    margin:100 auto auto 100px;
+
+}
+
+.desp{
+    position: absolute;
+    align-content: right;
+    margin:100px;
+    width:30%;
+    text-align: left;
+    
+}
+
+.devp{
+    text-align: left;
+    width: 30%;
+    position: relative;
+    margin-left: 60%;
+}
+
+.intro{
+    padding-top:20px;
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+
+}
+
+/*create section*/
+
+.cloudone {
+  left: 10px;
+  width: 50%;
+}
+
+.cloudtwo{
+    right:80 px;
+    width: 50%;
+    position: absolute
+    bottom: 50px;
+    
+}
+
+/*design section*/
+
+.des{
+    width: 40%;
+    border-radius: 50%;
+    background-color: #F4E6E6;
+}
+
+
+#des{
+    position: absolute;
+    align-content: right;
+    margin:100px;
+    width:30%;
+    text-align: left;   
+}
+
+#dev{
+    text-align: left;
+    width: 30%;
+    position: relative;
+    margin-left: 60%;
+    }
+
+
+
+hr{
+    border-top: 0px;
+    border-bottom: 6px;
+    border-bottom-style: dotted;
+    border-bottom-color: darkgrey;
+    border-bottom-width: 30%;
+    margin:100px auto auto;
+    
+}
+
+
+
+h1{
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+h2{
+    font-size: 36px;
+    font-family: jxfv-n5, adobe-notdef;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+h1, h2{
+ color: hotpink;
+ font-family:'Merriweather', serif;  
+}
+
+p{
+   font-size: 20px;
+   font-family: 
+   font-style: italic
+
+}
+
+
+
+
+body{
+    text-align: center;
+    font-family: merriweather;
+}
